@@ -1,3 +1,3 @@
 # Band-Name-Generator
-Generates Band Names
-Basically takes your Pet name and the name of your city to generate your band name
+Generates Band Names by
+basically taking the name of your pet and the name of your city to generate your band name
